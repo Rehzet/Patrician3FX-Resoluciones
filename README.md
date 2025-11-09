@@ -10,9 +10,10 @@ Para crear nuevas resoluciones, seguir esta guía de Steam:
 
 Antiguamente utilizaba esta guía de Steam y seguía los pasos a mano https://steamcommunity.com/sharedfiles/filedetails/?id=382413909
 
-Ahora he creado un script de Python para crear automáticamente cualquier resolución. Lo único que hay que hacer es descargar el contenido de la carpeta p3_hex_replace y ejecutar en una terminal:
+Ahora he creado un script de Python para crear automáticamente cualquier resolución. Lo único que hay que hacer es descargar el contenido de la carpeta `p3_hex_replace` y ejecutarlo en una terminal. Si la versión de tu juego instalado es diferente a la de FX en español, 1.13, debes copiar tu .exe y sustituir el que viene en este repositorio antes de ejecutar el programa.
 
 ```bash
 python p3_hex_replace.py ./Patrician3.exe 2560 1440
 ```
 Se puede sustituir `2560 1440` por la resolución deseada.
+
