@@ -1,0 +1,2 @@
+Estos archivos son los originales que se usan como base para hacer las modificaciones de resolución.
+Los dejo por aquí por si se estropean o pierden los de la carpeta padre.
